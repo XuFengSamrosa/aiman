@@ -1,0 +1,6 @@
+com\example\ai\service\FileTransToLocalService.class
+com\example\ai\AiApplication.class
+com\example\ai\service\PythonScriptService.class
+com\example\ai\config\SecurityConfig.class
+com\example\ai\demos\web\PythonController.class
+com\example\ai\service\ReturnMultipartFile.class
